@@ -1,0 +1,7 @@
+.hidden{
+    font-size: 0px !important;
+}
+
+.visible {
+    font-size: 24px !important;
+}
